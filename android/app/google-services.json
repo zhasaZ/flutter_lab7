@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "376744952360",
+    "firebase_url": "https://lab7-ersan2-default-rtdb.firebaseio.com",
+    "project_id": "lab7-ersan2",
+    "storage_bucket": "lab7-ersan2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376744952360:android:a466024edd71480e64eb1d",
+        "android_client_info": {
+          "package_name": "com.ersan.flutter_lab7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Hxk8gskHgKshoWdxTX5eaHFkuMRWuDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
